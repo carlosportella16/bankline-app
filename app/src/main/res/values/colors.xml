@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Reference: https://material.io/resources/color -->
+    <color name="primary_100">#ffcdd2</color>
+    <color name="primary_200">#ef9a9a</color>
+    <color name="primary_600">#e53935</color>
+    <color name="primary_700">#d32f2f</color>
+    <color name="primary_900">#b71c1c</color>
+</resources>
